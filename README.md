@@ -9,9 +9,10 @@ AI can therefore be a great timesaver in analysing x-rays and reducing workload 
 AI can also be of help in developing countries where there are problems with shortages of radiologists. With the help of ai diseases can be identified through x-ray photos
 without radiologists helping treat patients in areas suffering from resource constraints.
 
-
+The accuracy of diagnoses can also be improved. It has been shown that AI can help catch diseases more accurately. For instance AI has been proved to increase accuracy in detecting lung cancer[2]. This improved accuracy in identifying diseases can be crucial in saving many lives all over the world.
 
 [1] https://research.aimultiple.com/xray-ai/
+[2] https://www.diagnosticimaging.com/view/chest-x-rays-with-artificial-intelligence-catches-more-lung-cancer
 
 To run on your computer:
 
