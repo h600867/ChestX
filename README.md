@@ -15,4 +15,9 @@ activate your enviroment with "conda activate jupyter-env" and type " jupyter no
 if you struggle here is a tutorial link: https://www.youtube.com/watch?v=DKiI6NfSIe8
 
 To download this notebook download the raw ChestX.ipynb(top right when you open the file). Open jupyter notebook and click the upload butten in the top right.
-Navigate to where you downloaded the file and select it from your files. You should now be able to open it and run the project.
+Navigate to where you downloaded the file and select it from your files. 
+
+You will also need to download the dataset from Mendeley(https://data.mendeley.com/datasets/jctsfj2sfn/1).
+Download and extract it to a location of your choice. Once you have it downloaded make sure to change the path variable in the project to the location of where you extracted the dataset.
+
+Once this is done you should be able to run the notebook from your computer.
