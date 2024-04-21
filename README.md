@@ -34,8 +34,6 @@ https://www.ibm.com/topics/explainable-ai
 
 In my project i have included a confusion matrix to show the performance of the model on the diseases it is trained for and a heatmap function to highlight what part of the image the AI is looking at to identify the disease. This i feel can especially be helpfull for radiologists in streamlining their analysis of x-ray photos.
 
-The notebook can be found on Binder at the link: https://hub.ovh2.mybinder.org/user/h600867-chestx-i2awotdn/doc/tree/ChestX.ipynb, but if you want to download it to your computer follow the steps below
-
 To run on your computer:
 
 Make sure you have python and Jupyter notebooks installed on your computer:
